@@ -1,0 +1,38 @@
+name: nigerian_banks_signal_example
+description: A Very Good Project created by Very Good CLI.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  bloc: ^8.1.2
+
+  dio: ^5.4.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+
+  flutter_localizations:
+    sdk: flutter
+  freezed: ^2.4.6
+  freezed_result: ^1.0.3+1
+  gap: ^3.0.1
+  intersperse: ^2.0.0
+  intl: ^0.18.0
+  signals: ^2.1.10
+
+dev_dependencies:
+  bloc_test: ^9.1.2
+  build_runner: ^2.4.7
+  flutter_lints: ^3.0.1
+  flutter_test:
+    sdk: flutter
+  json_serializable: ^6.7.1
+  mocktail: ^0.3.0
+
+
+flutter:
+  uses-material-design: true
+  generate: true

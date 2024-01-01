@@ -1,0 +1,12 @@
+{
+    "@@locale": "es",
+    "nigerianBanksAppBarTitle": "🫵🏾 Bancos nigerianos",
+    "nigerianBanksUSSDCode": "Código USSD • {ussd_code}",
+    "@nigerianBanksUSSDCode": {
+        "placeholders": {
+            "ussd_code": {
+                "type": "String"
+            }
+        }
+    }
+}
