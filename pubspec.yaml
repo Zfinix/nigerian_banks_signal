@@ -21,7 +21,7 @@ dependencies:
   gap: ^3.0.1
   intersperse: ^2.0.0
   intl: ^0.18.0
-  signals: ^2.1.10
+  signals: ^4.2.2
 
 dev_dependencies:
   bloc_test: ^9.1.2
